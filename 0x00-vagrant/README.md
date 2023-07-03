@@ -1,0 +1,1 @@
+This is a project to answer the "Hello Ubuntu" task.
